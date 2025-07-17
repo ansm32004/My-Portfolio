@@ -1,73 +1,43 @@
-# Welcome to your Lovable project
+Welcome to my portfolio website! This project is designed to showcase my best work, professional background, and creative process in a modern, responsive format. The site is built to highlight both my technical skills and my approach to UX/UI.
 
-## Project info
+🚀 Features
+Responsive design: Seamlessly adapts to mobile, tablet, and desktop devices
 
-**URL**: https://lovable.dev/projects/2c4e20a1-ebd7-4fcc-bf5f-2831df604d39
+Minimalist UI: Clean layout with a focus on content and usability
 
-## How can I edit this code?
+Project gallery: Interactive thumbnails leading to detailed case studies for each project
 
-There are several ways of editing your application.
+About and Contact sections: Easy navigation to personal background and ways to reach out
 
-**Use Lovable**
+Smooth transitions & animations: Enhanced user experience with subtle modern effects
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/2c4e20a1-ebd7-4fcc-bf5f-2831df604d39) and start prompting.
+🖥️ UI Overview
+Homepage: Features a highlighted selection of recent projects, plus a short introduction.
 
-Changes made via Lovable will be committed automatically to this repo.
+About: Presents personal background, experience, and skills in a visually engaging manner.
 
-**Use your preferred IDE**
+Portfolio: Gallery of projects, each with high-quality visuals, descriptions, and insights into the development process.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Contact: Simple, accessible form (secured with validation) and links to social platforms.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Navigation: Sticky and mobile-friendly menu with smooth scrolling.
 
-Follow these steps:
+🛠️ Tech Stack
+Technology	Purpose
+React	Building a dynamic, component-based UI
+Vite	Lightning-fast build tool and dev server
+Tailwind CSS	Utility-first CSS framework for modern styling
+React Router	Smooth client-side routing between sections
+Framer Motion	Animations and transitions for polished UX
+Formik + Yup	Form management and validation (Contact section)
+Netlify/Vercel	Simple, fast deployment and hosting
+🧑‍💻 Why These Technologies?
+React offers a modular, scalable architecture, making it easy to manage and update content.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Vite provides instant reloads and optimized builds, streamlining the development experience.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Tailwind CSS enables rapid UI development with a clean, consistent visual system.
 
-# Step 3: Install the necessary dependencies.
-npm i
+Framer Motion brings professional-grade animation with minimal configuration.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/2c4e20a1-ebd7-4fcc-bf5f-2831df604d39) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Deployment via Netlify or Vercel ensures fast, secure, and global availability.
