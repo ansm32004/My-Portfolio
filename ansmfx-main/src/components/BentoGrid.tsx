@@ -40,14 +40,14 @@ const BentoGrid = () => {
     },
     {
       title: "Experience",
-      description: "Senior Frontend Developer, Co-Founder, President, Designer, Photographer",
+      description: "Product Designer, Co-Founder, President, Graphic and Tech Intern",
       size: "wide" as const,
       details: (
         <ul className="list-disc pl-6 space-y-2 text-white/80">
-          <li>Senior Frontend Developer at Tech Company</li>
-          <li>Co-Founder at OmniOTL</li>
-          <li>President at The Ace-OTC</li>
-          <li>Lead Designer & Photographer at Spark Trend</li>
+          <li>Product Designer at Southern Immigration</li>
+          <li>Co-Founder at OnnOff</li>
+          <li>President at The Ace Tech</li>
+          <li>Graphic and Tech Intern at IndiDino Ventures</li>
           <li>UX/UI Designer for Tasveer</li>
           <li>Freelance Creative for multiple startups</li>
         </ul>
